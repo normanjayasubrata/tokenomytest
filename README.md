@@ -5,7 +5,7 @@
 go to src/ folder, then create file named "secret.js"
 
 - src/
- - secret.js
+    - secret.js
 
 or you can use this command
     
