@@ -4,8 +4,13 @@
 
 go to src/ folder, then create file named "secret.js"
 
-    src/
-        secret.js
+src/
+- secret.js
+
+or you can use this command
+    
+    touch src/secret.js
+    code src/secret.js
 
 ### declare apiKey inside secret.js
 
