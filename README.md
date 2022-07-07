@@ -1,11 +1,11 @@
-# Notes from Norman to before run start
+# Notes from Norman before run the project
 
 ### crate file secret.js inside src
 
 go to src/ folder, then create file named "secret.js"
 
-src/
-- secret.js
+- src/
+- - secret.js
 
 or you can use this command
     
