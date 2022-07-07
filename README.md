@@ -1,3 +1,24 @@
+# Notes from Norman to before run start
+
+### crate file secret.js inside src
+
+go to src/ folder, then create file named "secret.js"
+
+![image](https://drive.google.com/file/d/1RTvGNgOgxLY3WfJq_1olsUUfAHDmuNHp/view)
+
+### declare apiKey inside secret.js
+
+    declare your https://exchangeratesapi.io/ apiKey in this file in an object
+
+    const secret = {
+
+apikey: "{your apiKey}",
+};
+
+export default secret;
+
+![image](https://drive.google.com/file/d/1VczEIfK_KJ0fIlV0YKNaxT4ZX0xn_hi0/view)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
